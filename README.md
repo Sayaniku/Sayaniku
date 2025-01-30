@@ -11,7 +11,7 @@
 * Not an creator content for now
 * Developper of Senko bot
 * French dev (everyone will say "oui oui baguette", i see you in the dark)
-* Owner of 2 french discord ( https://discord.gg/6xGpFxNGwK && https://discord.gg/x4GeJMMzBB )
+* Owner of their french discord ( https://discord.gg/x4GeJMMzBB )
 * Archlinux user
 * Sometimes i fucked up linux, sometimes it's windows, sometimes that of their own chief he's fucked up, not me
 * Passion for coding and reinstalling everytime their OS
